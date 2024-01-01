@@ -40,3 +40,22 @@
 .read-the-docs {
   color: #888;
 }
+
+.App {
+  text-align: center;
+}
+
+.image {
+  width: 4vw;
+  height: auto;
+}
+
+table {
+  width: 100%;
+}
+
+th, 
+td {
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+}
